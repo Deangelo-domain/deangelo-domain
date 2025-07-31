@@ -8,8 +8,8 @@ Hi, I'm DeAngelo, an IT Professional
   - [osTicket: Post-Installation Configuration](https://github.com/deangelo-domain/post-install-config)
   - [osTicket: Post-Installation Configuration/ SLA](https://github.com/deangelo-domain/post-install-SLA)
 - <b>Active Directory in Microsoft Azure</b>
-  - [Configuring  Account Lockout Policy in Active Directory](https://github.com/joshmadakorcc/configure-ad)
-  - [How to Enable or Delete an Account in Active Directory](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring  Account Lockout Policy in Active Directory](https://github.com/deangelo-domain/ad)
+  - [How to Enable or Delete an Account in Active Directory](https://github.com/deangelo-domain/ad-enable-account)
 
 <h2>🤳Connect with me:</h2>
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
