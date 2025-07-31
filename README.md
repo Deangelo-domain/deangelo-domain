@@ -12,9 +12,8 @@ Hi, I'm DeAngelo, an IT Professional
   - [How to Enable or Delete an Account in Active Directory](https://github.com/deangelo-domain/ad-enable-account)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
 [linkedin]: https://www.linkedin.com/in/deangelojohnson/
+
+
+
+
